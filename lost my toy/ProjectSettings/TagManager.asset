@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Toys
+  - Spotlight
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Toys
+    uniqueID: 1337898409
+    locked: 0
+  - name: spotlight
+    uniqueID: 940384397
     locked: 0
